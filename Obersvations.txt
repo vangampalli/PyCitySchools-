@@ -1,0 +1,8 @@
+
+PyCitySchools Observations 
+
+1. Scores by School Spending 
+	In this data frame, the schools were divided into groups based upon the amount of money that was spent per student. In every category measuring the student's academic ability (average scores and passing rates), increasing amounts of money resulted in lower testing scores. 
+
+2. Scores by School Size 
+	In this data frame, the schools were divided into a small, medium, or large category based on their student population. While reading scores were only slightly decreased with an increasing school size, math scores were drastically lower in larger schools. This resulted in many less students passing math courses and thus proportionately far fewer students passed overall in larger schools. 
